@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "censored"
 
 # Get user's name
 user_name = input("Enter your name: ")
